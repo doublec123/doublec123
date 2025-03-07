@@ -1,7 +1,8 @@
 ## Hi there 👋
 Hi there! I'm Iles, a Frontend Developer, Web Designer, and Ethical Hacker with a passion for building sleek, interactive web experiences. I specialize in Python, JavaScript, and modern frontend frameworks.
 
--🔥 What I Do
+-🔥 What I Do :
+
 -🎨 Frontend Development – Crafting clean and responsive UI/UX designs.
 
 -🛡️ Ethical Hacking – Exploring cybersecurity and ethical hacking techniques.
