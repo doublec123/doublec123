@@ -10,14 +10,6 @@ Hi there! I'm Iles, a Frontend Developer, Web Designer, and Ethical Hacker with 
 -🖥️ Python Programming – Developing automation scripts and security tools.
 
 
--📡 Connect With Me.
-
--🎥 YouTube: Code Zarella.
-
--📷 Instagram: @Codezarella.
-
--🌐 Website: Coming Soon!.
-
 -🚀 Always open to collaboration & learning new technologies!.
 <!--
 **doublec123/doublec123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
