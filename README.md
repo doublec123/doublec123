@@ -66,7 +66,7 @@ I build clean, interactive web experiences and explore the cybersecurity side of
 
 <!-- Swap in your real links -->
 <p align="left">
-  <a href="ilesomari9.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:ilesomari9.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
   <a href="www.linkedin.com/in/iles-omari-818954247"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
 </p>
 
