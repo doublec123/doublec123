@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Iles 👋</h1>
 
-<h3 align="center">Web Developer · Ethical Hacking Enthusiast · Future Fachinformatiker</h3>
+<h3 align="center">Web Developer · Ethical Hacking Enthusiast ·</h3>
 
 <p align="center">
 I build clean, interactive web experiences and explore the cybersecurity side of how they can break — currently pursuing an Ausbildung (vocational training) in IT / Fachinformatiker.
