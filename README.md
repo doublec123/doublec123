@@ -3,7 +3,7 @@
 <h3 align="center">Web Developer · Ethical Hacking Enthusiast ·</h3>
 
 <p align="center">
-I build clean, interactive web experiences and explore the cybersecurity side of how they can break — currently pursuing an Ausbildung (vocational training) in IT / Fachinformatiker.
+- I build clean, interactive web experiences and explore the cybersecurity side of how they can break — 
 </p>
 
 <p align="center">
