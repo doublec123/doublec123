@@ -1,13 +1,9 @@
 <h1 align="center">Hi, I'm Iles 👋</h1>
 
-<h3 align="center">Web Developer · Ethical Hacking Enthusiast ·</h3>
+<h3 align="center"> Front / back end Developer · cybersecurity  ·</h3>
 
 <p align="center">
 - I build clean, interactive web experiences and explore the cybersecurity side of how they can break — 
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=doublec123&label=Profile%20views&color=6c63ff&style=flat" alt="profile views" />
 </p>
 
 ---
